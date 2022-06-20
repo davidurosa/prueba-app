@@ -123,7 +123,7 @@ const Author = ({ navigation }) => {
     <Center>
       <Box>
         <Heading fontSize="xl" p="4" pb="3">
-          Authors
+          Author
         </Heading>
         <FlatList
           data={AuthorData}
